@@ -8,6 +8,11 @@
 
 ## Setup
 
+Node version 16.20.2
+```
+nvm install 16.20.2
+```
+
 ```
 yarn install && yarn start
 ```
